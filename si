@@ -7,5 +7,5 @@ class program{
     Console.WriteLine("Hola mundo");
 
   }
-  
+  //No sé si este programa si funcione jskjskjkjs
 }
